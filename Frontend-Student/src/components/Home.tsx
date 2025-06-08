@@ -11,7 +11,7 @@ function Home() {
       <div className="container">
         <h1>Welcome to Our Student Learning Management System</h1>
        
-        <p>Step into a world where learning knows no boundaries. Our Learning Management System is designed to empower you to reach your educational goals conveniently and efficiently. Dive into a vast array of courses, modules, and resources meticulously crafted to cater to diverse interests and skill levels.
+        <p>Step into a new world where learning knows no boundaries. Our Learning Management System is designed to empower you to reach your educational goals conveniently and efficiently. Dive into a vast array of courses, modules, and resources meticulously crafted to cater to diverse interests and skill levels.
 
 </p>
         {tokenFromLocalStorage?<Link to="/home-menu" className="btn btn-danger">
